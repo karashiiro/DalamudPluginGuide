@@ -10,7 +10,7 @@ Also see [SamplePlugin](https://github.com/ff-meli/SamplePlugin) and other exist
 ## Creating a project
 There are currently two main methods for creating a project:
  * [From scratch](#from-scratch)
- * [Using DalamudPluginProject as a base](#using-dalamud-plugin-project-as-a-base)
+ * [Using DalamudPluginProject as a base](#using-dalamudpluginproject-as-a-base)
 
 ## From scratch
 Open Visual Studio and create a new project. Select **Class Library (.NET Standard)** from the list. Set the
