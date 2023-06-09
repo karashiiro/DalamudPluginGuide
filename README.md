@@ -1,4 +1,4 @@
-NOTE: This is incomplete, and is planned to be adopted by goatcorp and finished eventually. Only this page is half-finished (no images). A link to the finished book will be linked here when that happens.
+**NOTE: This guide is now obsolete, please refer to https://github.com/goatcorp/SamplePlugin instead.**
 
 # Dalamud Plugin Guide
 This minibook provides a brief explanation of how to create Dalamud plugins.
